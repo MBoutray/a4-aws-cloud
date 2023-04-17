@@ -12,7 +12,33 @@
       "AmplifyAppId": "dkomcwu6nq56u"
     }
   },
-  "backalex": {
+  "alexandre": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsa4-alexandre-112442-authRole",
+      "UnauthRoleArn": "arn:aws:iam::795451994200:role/amplify-awsa4-alexandre-112442-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::795451994200:role/amplify-awsa4-alexandre-112442-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsa4-alexandre-112442-deployment",
+      "UnauthRoleName": "amplify-awsa4-alexandre-112442-unauthRole",
+      "StackName": "amplify-awsa4-alexandre-112442",
+      "StackId": "arn:aws:cloudformation:eu-west-1:795451994200:stack/amplify-awsa4-alexandre-112442/afc9d7e0-dd01-11ed-8d57-06fe4cf2c53b",
+      "AmplifyAppId": "dkomcwu6nq56u"
+    }
+    },
+  "nathan": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsa4-nathan-112426-authRole",
+      "UnauthRoleArn": "arn:aws:iam::795451994200:role/amplify-awsa4-nathan-112426-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::795451994200:role/amplify-awsa4-nathan-112426-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsa4-nathan-112426-deployment",
+      "UnauthRoleName": "amplify-awsa4-nathan-112426-unauthRole",
+      "StackName": "amplify-awsa4-nathan-112426",
+      "StackId": "arn:aws:cloudformation:eu-west-1:795451994200:stack/amplify-awsa4-nathan-112426/a62cc0d0-dd01-11ed-a553-02436e7d68ed",
+      "AmplifyAppId": "dkomcwu6nq56u"
+    }
+  },
+    "backalex": {
     "awscloudformation": {
       "AuthRoleName": "amplify-awsa4-backalex-112128-authRole",
       "UnauthRoleArn": "arn:aws:iam::795451994200:role/amplify-awsa4-backalex-112128-unauthRole",
@@ -22,7 +48,6 @@
       "UnauthRoleName": "amplify-awsa4-backalex-112128-unauthRole",
       "StackName": "amplify-awsa4-backalex-112128",
       "StackId": "arn:aws:cloudformation:eu-west-1:795451994200:stack/amplify-awsa4-backalex-112128/3c5ff1e0-dd01-11ed-aa89-0670b72be28f",
-      "AmplifyAppId": "dkomcwu6nq56u"
     }
   },
   "backmartin": {

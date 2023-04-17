@@ -1,0 +1,10 @@
+{
+  "resourceName": "bddcours",
+  "tableName": "test",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "number"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
