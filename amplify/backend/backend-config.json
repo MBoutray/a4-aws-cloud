@@ -1,4 +1,11 @@
 {
+  "function": {
+    "updateUser": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
   "storage": {
     "bddcours": {
       "providerPlugin": "awscloudformation",

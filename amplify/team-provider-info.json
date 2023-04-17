@@ -23,8 +23,13 @@
       "StackName": "amplify-awsa4-alexandre-112442",
       "StackId": "arn:aws:cloudformation:eu-west-1:795451994200:stack/amplify-awsa4-alexandre-112442/afc9d7e0-dd01-11ed-8d57-06fe4cf2c53b",
       "AmplifyAppId": "dkomcwu6nq56u"
-    }
     },
+    "categories": {
+      "function": {
+        "updateUser": {}
+      }
+    }
+  },
   "nathan": {
     "awscloudformation": {
       "AuthRoleName": "amplify-awsa4-nathan-112426-authRole",
