@@ -23,7 +23,8 @@
       "StackName": "amplify-awsa4-nathan-112426",
       "StackId": "arn:aws:cloudformation:eu-west-1:795451994200:stack/amplify-awsa4-nathan-112426/a62cc0d0-dd01-11ed-a553-02436e7d68ed",
       "AmplifyAppId": "dkomcwu6nq56u"
-    },
+    }
+  },
   "backmartin": {
     "awscloudformation": {
       "AuthRoleName": "amplify-awsa4-backmartin-111645-authRole",
