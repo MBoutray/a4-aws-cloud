@@ -1,1 +1,8 @@
-{}
+{
+  "storage": {
+    "bddcours": {
+      "providerPlugin": "awscloudformation",
+      "service": "DynamoDB"
+    }
+  }
+}
