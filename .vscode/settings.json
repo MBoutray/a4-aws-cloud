@@ -7,10 +7,6 @@
     "amplify/#current-cloud-backend": true,
     "amplify/backend/amplify-meta.json": true,
     "amplify/backend/awscloudformation": true
-<<<<<<< HEAD
-  }
-=======
   },
   "nuxt.isNuxtApp": false
->>>>>>> 844691112d1901e7220dd3dbb71e4777622e7a54
 }
