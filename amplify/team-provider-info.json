@@ -24,5 +24,23 @@
       "StackId": "arn:aws:cloudformation:eu-west-1:795451994200:stack/amplify-awsa4-backalex-112128/3c5ff1e0-dd01-11ed-aa89-0670b72be28f",
       "AmplifyAppId": "dkomcwu6nq56u"
     }
+  },
+  "backmartin": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsa4-backmartin-111645-authRole",
+      "UnauthRoleArn": "arn:aws:iam::795451994200:role/amplify-awsa4-backmartin-111645-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::795451994200:role/amplify-awsa4-backmartin-111645-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsa4-backmartin-111645-deployment",
+      "UnauthRoleName": "amplify-awsa4-backmartin-111645-unauthRole",
+      "StackName": "amplify-awsa4-backmartin-111645",
+      "StackId": "arn:aws:cloudformation:eu-west-1:795451994200:stack/amplify-awsa4-backmartin-111645/93eb6710-dd00-11ed-bb8a-0e0f6ad122db",
+      "AmplifyAppId": "dkomcwu6nq56u"
+    },
+    "categories": {
+      "storage": {
+        "bddcours": {}
+      }
+    }
   }
 }
